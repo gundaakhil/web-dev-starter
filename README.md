@@ -5,3 +5,10 @@
 3. Run npm run start in your terminal to start the server.
 
 4. Your browser will open at localhost:3000.
+
+Collections
+IOStreams
+MultiThreading
+HTTPS
+JSON
+Beautyfull soup
